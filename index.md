@@ -1,2 +1,3 @@
 # Heading Helena
 ## Heading Food!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
